@@ -19,7 +19,7 @@ const WelcomeScreen = ({ navigation }) => {
 					fontWeight: "bold",
 					color: "#3c444c",
 					marginTop: 30,
-					marginBottom: 20,
+					marginBottom: 15,
 				}}
 			>
 				Cook Like A Chef
